@@ -1,25 +1,3 @@
----
-marp: true
-theme: default
-paginate: true
-backgroundColor: #fff
-style: |
-  section {
-    font-family: 'Arial', sans-serif;
-  }
-  h1 {
-    color: #2c3e50;
-  }
-  h2 {
-    color: #34495e;
-  }
-  code {
-    background-color: #f0f0f0;
-    padding: 2px 5px;
-    border-radius: 4px;
-  }
----
-
 # Project Architecture Overview
 ## Ecommerce Backend (Go)
 
